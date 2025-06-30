@@ -1,4 +1,4 @@
-# Wi-Fi
+# To find a Wi-Fi Password using the command prompt
 
 **"All intellectual property, including but not limited to ideas, code, and other content contained in this repository, is the property of its respective owners and is acknowledged and credited accordingly."**
 
