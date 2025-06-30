@@ -13,7 +13,7 @@ netsh wlan show profiles
 ## To view the *Wi-Fi Password* for a specific profile
 
 ```
-netsh wlan show profile name="wifi_profile" key=clear
+netsh wlan show profile name="wi-fi_profile" key=clear
 ```
 
 ![image](https://github.com/user-attachments/assets/2ceae826-72c8-4aee-8371-776921137d66)
