@@ -13,8 +13,15 @@ netsh wlan show profiles
 ## To view the *Wi-Fi Password* for a specific profile
 
 ```
-netsh wlan show profile name="wi-fi_profile" key=clear
+netsh wlan show profile name="Wi-Fi_profile-name" key=clear
 ```
 
 ![image](https://github.com/user-attachments/assets/2ceae826-72c8-4aee-8371-776921137d66)
 
+## To remove the stored credentials/Wi-Fi Password on Windows using the command prompt
+
+```
+netsh wlan delete profile name="Wi-Fi_profile-name"
+```
+
+![image](https://github.com/user-attachments/assets/daee5497-a082-4071-a969-5a162278f410)
